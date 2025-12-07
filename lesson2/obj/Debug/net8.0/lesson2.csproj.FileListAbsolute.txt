@@ -1,0 +1,136 @@
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\appsettings.Development.json
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\appsettings.json
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.exe
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.deps.json
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.runtimeconfig.json
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.dll
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.pdb
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.AssemblyReference.cache
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfoInputs.cache
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfo.cs
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.CoreCompileInputs.cache
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.build.json
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.development.json
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.lesson2.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.build.lesson2.props
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lesson2.props
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lesson2.props
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.pack.json
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\scopedcss\bundle\lesson2.styles.css
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.Up2Date
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.dll
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\refint\lesson2.dll
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.pdb
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.genruntimeconfig.cache
+Y:\Groups\group_3\נועה קשת\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\ref\lesson2.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.exe
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.deps.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.runtimeconfig.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\lesson2.pdb
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\scopedcss\bundle\lesson2.styles.css
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.lesson2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.lesson2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.build.lesson2.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lesson2.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lesson2.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.Up2Date
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\refint\lesson2.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.pdb
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\lesson2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2\lesson2\lesson2\obj\Debug\net8.0\ref\lesson2.dll
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\appsettings.Development.json
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\appsettings.json
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.exe
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.deps.json
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.runtimeconfig.json
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.dll
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.pdb
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.AssemblyReference.cache
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfoInputs.cache
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfo.cs
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.CoreCompileInputs.cache
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.build.json
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.development.json
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.lesson2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.build.lesson2.props
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lesson2.props
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lesson2.props
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.pack.json
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\scopedcss\bundle\lesson2.styles.css
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.Up2Date
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.dll
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\refint\lesson2.dll
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.pdb
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.genruntimeconfig.cache
+E:\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\ref\lesson2.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.exe
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.deps.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.runtimeconfig.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\lesson2.pdb
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\scopedcss\bundle\lesson2.styles.css
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.lesson2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.lesson2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.build.lesson2.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lesson2.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lesson2.props
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.csproj.Up2Date
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\refint\lesson2.dll
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.pdb
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\lesson2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\דוטנט\שיעור 2 המשך\lesson2\lesson2\obj\Debug\net8.0\ref\lesson2.dll
